@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.exe
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.deps.json
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.dll
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\bin\Debug\net6.0\ConsoleAppTest.pdb
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.dll
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\refint\ConsoleAppTest.dll
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.pdb
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\projet test .NET\hello\ConsoleAppTest\obj\Debug\net6.0\ref\ConsoleAppTest.dll

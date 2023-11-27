@@ -1,0 +1,4 @@
+C:\Users\Utilisateur\Documents\projet test .NET\hello\obj\Debug\net8.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\projet test .NET\hello\obj\Debug\net8.0\hello.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\projet test .NET\hello\obj\Debug\net8.0\hello.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\projet test .NET\hello\obj\Debug\net8.0\hello.csproj.CoreCompileInputs.cache
